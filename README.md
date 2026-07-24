@@ -1,7 +1,7 @@
 ### 🔍 About Me
 
 - 🔭 I’m currently studying **Laravel and PHP**
-- 🎓 4th-semester student in **Analysis and Systems Development (ADS)** at **FATEC Sorocaba**.
+- 🎓 5th-semester student in **Analysis and Systems Development (ADS)** at **FATEC Sorocaba**.
 - 🎸 I'm passionate about music, hardware customization, and technical troubleshooting.
 - 🎨 Advocate for **Clean UI/UX Design**, prioritizing functionality and clarity over visual noise.
 - 💬 Ask me about **React, Next.js, or Full-stack architecture** :)
