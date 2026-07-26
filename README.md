@@ -1,10 +1,10 @@
 ### 🔍 About Me
 
-- 🔭 I’m currently studying **Laravel and PHP**
+- 🔭 I’m currently studying **Spec-Driven Development and Prisma**
 - 🎓 5th-semester student in **Analysis and Systems Development (ADS)** at **FATEC Sorocaba**.
 - 🎸 I'm passionate about music, hardware customization, and technical troubleshooting.
-- 🎨 Advocate for **Clean UI/UX Design**, prioritizing functionality and clarity over visual noise.
-- 💬 Ask me about **React, Next.js, or Full-stack architecture** :)
+- 📝 Advocate for **living documentation and Docs-as-Code** — a recorded decision is a decision that doesn't get lost
+- 💬 Ask me about **Next.js, Prisma, Docs-as-Code, or Full-stack architecture** :)
 
 ---
 ### 🛠️ Tech Stack
